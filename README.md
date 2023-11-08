@@ -1,29 +1,74 @@
 # Vishal-Mishra-
-<h1 align="center">Hi 👋, I'm Vishal Mishra</h1>
-<h3 align="center">A passionate frontend developer</h3>
+![Header](https://i.ibb.co/WkVXB92/github-header-image-2.gif)//
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=perfectcse&label=Profile%20views&color=0e75b6&style=flat" alt="perfectcse" /> </p>
+## Hello there, 👋
 
-- 🌱 I’m currently learning **MERN STACK**
+I'm Vishal Mishra, a dedicated Front-End Web Development student based in Indore, India. My journey is all about evolving into a skilled developer, and I thrive on taking up new challenges and seizing learning opportunities.
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vm938359/overview](https://app.netlify.com/teams/vm938359/overview)
+🌱 **Learning Enthusiast**: I'm passionate about expanding my knowledge in web development, always seeking the next level of mastery.
 
-- 💬 Ask me about **HTMl,CSS Javascripit ,React,Boostrap Nodejs**
+🌐 **Open-Source Advocate**: I'm excited about the power of open-source projects and the collaborative spirit of the developer community. I'm here to connect, learn, and contribute.
 
-- 📫 How to reach me **vm938359@gmail.com**
+Let's code, learn, and grow together! Feel free to reach out and connect with me.
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:11c26163-7626-4d12-86dc-4a29cddacfde](https://acrobat.adobe.com/id/urn:aaid:sc:AP:11c26163-7626-4d12-86dc-4a29cddacfde)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishalm57189631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalm57189631" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-mis-9623luck/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-mis-9623luck/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc8q1nhykdu5da17huzyycfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc8q1nhykdu5da17huzyycfw" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## My Personal Portfolio
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfectcse&show_icons=true&locale=en&layout=compact" alt="perfectcse" /></p>
+🚀 You can explore my project  [Project](https://app.netlify.com/teams/vm938359/overview), where you'll find live demos, details about my projects, and more about me.
+
+### Projects
+
+- **Mouzie Blog App**: An engaging blog app crafted solely with front-end technologies. While it's not overly complex, it's a good example of my front-end skills.
+
+- **Advance Quiz App**: Stay tuned for updates on this exciting project! More information coming soon.
+
+Feel free to check out my portfolio for a more in-depth look at my work and stay updated on my projects. Let's connect and discuss our shared passion for technology!
+
+##  My Skills 🛠
+
+This is skills that i have and tried to improve it and aquired more
+
+### Basics 
+![My Skills](https://skillicons.dev/icons?i=html,css)
+
+### Programing Language 
+
+![My Skills](https://skillicons.dev/icons?i=js)
+
+### CSS FreamWork & Libraries
+
+![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)
+
+### Javascript Libraries 
+
+![My Skills](https://skillicons.dev/icons?i=react)
+
+### Tools
+
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,)
+
+
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rjkush17&show_icons=true&hide_border=true) -->
+
+
+
+## 🔗 Other Perofiles
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rishabhkushwah.netlify.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjkush17/)
+
+[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rjkush17/)
+
+### Other Facts About Me
+
+- 🎵 **Music Enthusiast**: I have a deep love for music and enjoy exploring various genres. Feel free to share your favorite artists or songs with me!
+
+- 🎮 **Mobile Gamer**: I'm an avid mobile gamer, and I'm always up for discussing the latest mobile games, strategies, or gaming experiences. Let's share our high scores!
+
+- 🌐 **Internet Explorer**: The internet is my playground. I'm constantly exploring, learning, and discovering new things online. If you have any interesting websites, articles, or online communities to recommend, I'm all ears.
+
+Feel free to connect with me on these interests, and let's share our passion for music, mobile games, and the vast world of the internet!
+
